@@ -16,7 +16,7 @@ In order to do this, we used  [Kaggle's datasets](https://www.kaggle.com/c/home-
 
 ## Tasks:
 
-You can view the hole work process on the project list of tasks.
+You can view the hole work process on the project list of tasks or on Wrike agile dashboard.
 
 ## Tools:
 
