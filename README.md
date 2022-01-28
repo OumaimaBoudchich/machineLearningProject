@@ -17,3 +17,17 @@ In order to do this, we used  [Kaggle's datasets](https://www.kaggle.com/c/home-
 ## Tasks:
 
 You can view the hole work process on the project list of tasks.
+
+## Tools:
+
+1. Anaconda/ Python
+2. Jupyter Notebook
+3. Power Bi
+4. PowerPoint
+5. Wrike
+6. Github
+7. Teams
+
+## Execution :
+3. To execute Notebooks, you we need to install Anaconda or Python pwith a specific virtual Env
+4. To display dashboard, you will need to install Power Bi version 2016. (We could not generate a web link to the dashboard because we don't own professionnal email adresses)
