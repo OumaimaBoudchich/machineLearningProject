@@ -29,5 +29,5 @@ You can view the hole work process on the project list of tasks.
 7. Teams
 
 ## Execution :
-3. To execute Notebooks, you we need to install Anaconda or Python pwith a specific virtual Env
-4. To display dashboard, you will need to install Power Bi version 2016. (We could not generate a web link to the dashboard because we don't own professionnal email adresses)
+* To execute Notebooks, you we need to install Anaconda or Python pwith a specific virtual Env
+* To display dashboard, you will need to install Power Bi version 2016. (We could not generate a web link to the dashboard because we don't own professionnal email adresses)
